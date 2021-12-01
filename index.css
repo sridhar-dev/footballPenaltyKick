@@ -17,7 +17,7 @@ body > button{
     color: white;
     text-align: center;
     padding: 1px;
-    height: 200vh;
+    height: 100vh;
 }
 
 /* .circle {
@@ -34,18 +34,15 @@ body > button{
 
 .media-left{
   float: left;
-  margin-left: 50px;
+  
   
 }
 
 .media-right{
   float: right;
-  margin-right: 50px;
 }
 
-.scoreLeft{
-  display: inherit;
-}
+
 
 #shoot{
   height: 40px;
@@ -53,6 +50,7 @@ body > button{
   font-size: large;
   margin-top: 150px;
   margin-right: 10px;
+  text-align: center;
   border: 2px solid black;
   border-radius: 5px;
 }
