@@ -43,7 +43,15 @@ body > button{
   float: right;
 }
 
+.img-left{
+  height: 70px;
+  width: 70px;
+}
 
+.img-right{
+  height: 70px;
+  width: 70px;
+}
 
 #shoot{
   height: 40px;
