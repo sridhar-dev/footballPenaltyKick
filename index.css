@@ -1,0 +1,67 @@
+/* @media only screen and (max-width: 600px){ */
+body{
+  text-align: center;
+}
+body > button{
+  height: 40px;
+  width: 150px; 
+  font-size: large;
+  margin-top: -250px;
+  margin-right: -60px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.container{
+    background-color: rgb(131, 19, 235);
+    color: white;
+    text-align: center;
+    padding: 1px;
+    height: 200vh;
+}
+
+/* .circle {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+  } */
+
+#result, #shoot {
+    color: black;
+  }
+
+.media-left{
+  float: left;
+  margin-left: 50px;
+  
+}
+
+.media-right{
+  float: right;
+  margin-right: 50px;
+}
+
+.scoreLeft{
+  display: inherit;
+}
+
+#shoot{
+  height: 40px;
+  width: 150px; 
+  font-size: large;
+  margin-top: 150px;
+  margin-right: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.result{
+  margin: 10px;
+  text-align:center
+  
+}
+
+
+/* } */
