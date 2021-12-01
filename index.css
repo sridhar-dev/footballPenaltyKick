@@ -7,7 +7,7 @@ body > button{
   width: 150px; 
   font-size: large;
   margin-top: -250px;
-  margin-right: -60px;
+  text-align: center;
   border: 2px solid black;
   border-radius: 5px;
 }
@@ -17,7 +17,7 @@ body > button{
     color: white;
     text-align: center;
     padding: 1px;
-    height: 100vh;
+    height: 60vh;
 }
 
 /* .circle {
@@ -30,6 +30,7 @@ body > button{
 
 #result, #shoot {
     color: black;
+    font-weight: bolder;
   }
 
 .media-left{
@@ -49,15 +50,15 @@ body > button{
   width: 150px; 
   font-size: large;
   margin-top: 150px;
-  margin-right: 10px;
   text-align: center;
   border: 2px solid black;
   border-radius: 5px;
 }
 
 .result{
-  margin: 10px;
-  text-align:center
+  margin: 20px;
+  text-align:center;
+  font-size: 30px;
   
 }
 
